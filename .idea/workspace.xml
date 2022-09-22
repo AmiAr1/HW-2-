@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3e496de5-2227-4c0e-973d-cc28511b1b95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ o.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/amina'/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/amina'/.idea/amina'.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/amina'/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -19,26 +13,7 @@
       <change afterPath="$PROJECT_DIR$/amina'/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/amina'/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/amina'/amina.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars/create_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars/get_car_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson5/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson5/amina_19-1_hw5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson5/полиформизм.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson6/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson6/Amina_19-1_hw1..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson6/Amina_19-1_hw2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson6/Amina_19-1_hw3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson6/amina_19-1_hw_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson6/docss.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson6/ff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson6/leson2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson6/leson3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leson6/множеств насл.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person/creat_person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +220,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654527315191</updated>
-      <workItem from="1663839787100" duration="415000" />
+      <workItem from="1663839787100" duration="739000" />
     </task>
     <servers />
   </component>
